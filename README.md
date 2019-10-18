@@ -32,6 +32,6 @@ Stretch:
 DATA SETS / DESIGN LINKS
 https://data.world/rvino88/1976-to-2015-nba-draft-data
 
-## Trello
-## Culture Docs
-## Rubric
+## [Trello](https://trello.com/b/UYMEvq33/nba-career-longevity-predictor)
+## [Culture Docs](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+## [Rubric](https://www.notion.so/Unit-Completion-Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
