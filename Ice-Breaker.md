@@ -1,5 +1,7 @@
-# For this challenge, we will all clone the objetive and assets repo, fill this out as a team on our own branch, then group merge.
+# We will all clone the objetive and assets repo, fill this out as a team on our own, then group merge.
 
+## Post Ice Breaker
+https://airtable.com/shrR6onNGZxYkmljn
 
 ## **The Time Machine**
 
