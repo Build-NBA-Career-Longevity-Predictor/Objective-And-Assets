@@ -87,3 +87,13 @@ Oh yeah, computers and modern day things rule.
     - Buddha
 - Would you just want to visit and come back, or would you stay?"
     - Visit and come back ,then go forward
+
+### Jeff Daniel
+
+- Where would you go?
+I would go to 1000 years in the future just to see what tech looks like then.
+- If backward, to which time period? Why?
+- If there was a person you could go back in time and meet, who would it be, and why?
+Not really.
+- Would you just want to visit and come back, or would you stay?"
+Depends, if it's better in the future I'd stay.
