@@ -65,3 +65,16 @@ I'm really curious about my family history, so I'd like to go back and meet a gr
 - Would you just want to visit and come back, or would you stay?"
 
 Well, if time is circular, I'll hopefully end up right where I am :)
+
+
+Colin Bazzano
+
+- Where would you go?
+LA in the 1950's.
+- If backward, to which time period? Why?
+1950's, because of the time period with Hollywood and I would want to photograph the life that was going on then.
+- If there was a person you could go back in time and meet, who would it be, and why?
+Ernst Leitz, he created Leica and it's my favorite camera company.
+- Would you just want to visit and come back, or would you stay?"
+Oh yeah, computers and modern day things rule.
+
