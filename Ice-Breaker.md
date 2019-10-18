@@ -6,6 +6,8 @@ https://airtable.com/shrR6onNGZxYkmljn
 
 ## **The Time Machine**
 
+### Joseph Lambert
+
 Ask the following question, to one participant at a time: "If you were able to travel through time, either forward or backward:
 
 - Where would you go?
