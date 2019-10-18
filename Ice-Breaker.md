@@ -78,3 +78,12 @@ Ernst Leitz, he created Leica and it's my favorite camera company.
 - Would you just want to visit and come back, or would you stay?"
 Oh yeah, computers and modern day things rule.
 
+## **Navo V**
+- Where would you go?
+    - Before the Big Bang
+- If backward, to which time period? Why?
+    - Before the big bang, I want to know what happened before that.
+- If there was a person you could go back in time and meet, who would it be, and why?
+    - Buddha
+- Would you just want to visit and come back, or would you stay?"
+    - Visit and come back ,then go forward
