@@ -20,3 +20,20 @@ my grandfather?
 - Would you just want to visit and come back, or would you stay?"
 
 Nah I would come back. No need to relive 2016 again.
+
+Forrest-Bingham
+
+Ask the following question, to one participant at a time: "If you were able to travel through time, either forward or backward:
+
+- Where would you go?
+- If backward, to which time period? Why?
+
+  - I would go back in time and buy Bitcoin
+
+- If there was a person you could go back in time and meet, who would it be, and why?
+
+Grandfather
+
+- Would you just want to visit and come back, or would you stay?"
+
+Come back to the present.
