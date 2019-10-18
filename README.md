@@ -1,6 +1,4 @@
-# NBA Career Longevity Predictor
-
-## Objective-And-Assets
+# Objective And Assets for NBA Career Longevity Predictor
 Your one stop shop for all things Mission Critical. 
 
 ## PITCH
@@ -33,3 +31,7 @@ Stretch:
 - Create a way to rank the players saved to the user's profile in a way that highlights the best players.
 DATA SETS / DESIGN LINKS
 https://data.world/rvino88/1976-to-2015-nba-draft-data
+
+## Trello
+## Culture Docs
+## Rubric
